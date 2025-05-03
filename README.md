@@ -58,7 +58,7 @@ A simple yet engaging memory card game developed with Qt and C++.
 
 ## 🔭 Currently Working On
 
-- Expanding the Venora ecosystem with new features
+- Expanding the app ecosystems and functions
 - Developing more productivity-focused Chrome extensions
 - Exploring new frontend frameworks and technologies
 
