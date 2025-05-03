@@ -53,8 +53,14 @@ A simple yet engaging memory card game developed with Qt and C++.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeifElkadyy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeifElkadyy&layout=compact&theme=radical)
+<!-- GitHub Stats Card - Counts private contributions and all commits -->
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SeifElkadyy&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+<!-- Most Used Languages - Including private repos -->
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SeifElkadyy&layout=compact&theme=radical&count_private=true&hide_border=true)
+
+<!-- GitHub Streak Stats - Contribution streak -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SeifElkadyy&theme=radical)](https://git.io/streak-stats)
 
 ## 🔭 Currently Working On
 
