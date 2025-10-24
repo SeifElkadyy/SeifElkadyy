@@ -1,0 +1,292 @@
+{
+  "profile": {
+    "name": "Seif",
+    "title": "Full-Stack Developer | Mobile Developer | Frontend Specialist",
+    "description": "I build modern web and mobile applications with a focus on responsive design, user experience, and clean code. From educational platforms to innovative browser extensions, I love turning complex problems into elegant solutions.",
+    "github_username": "SeifElkadyy"
+  },
+  "contact": {
+    "email": "Seif2529888@gmail.com",
+    "linkedin": "https://linkedin.com/in/seifelkady",
+    "portfolio": "https://seifelkady.com",
+    "github": "https://github.com/seifelkadyy"
+  },
+  "technologies": {
+    "frontend": [
+      {
+        "name": "React",
+        "badge": "https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"
+      },
+      {
+        "name": "React Native",
+        "badge": "https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"
+      },
+      {
+        "name": "Next.js",
+        "badge": "https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"
+      },
+      {
+        "name": "HTML5",
+        "badge": "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+      },
+      {
+        "name": "CSS3",
+        "badge": "https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+      },
+      {
+        "name": "TailwindCSS",
+        "badge": "https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"
+      }
+    ],
+    "languages": [
+      {
+        "name": "JavaScript",
+        "badge": "https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+      },
+      {
+        "name": "TypeScript",
+        "badge": "https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
+      },
+      {
+        "name": "Java",
+        "badge": "https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"
+      },
+      {
+        "name": "C++",
+        "badge": "https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"
+      },
+      {
+        "name": "Python",
+        "badge": "https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+      }
+    ],
+    "backend": [
+      {
+        "name": "Node.js",
+        "badge": "https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
+      },
+      {
+        "name": "ASP.NET Core",
+        "badge": "https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"
+      }
+    ],
+    "databases": [
+      {
+        "name": "PostgreSQL",
+        "badge": "https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
+      },
+      {
+        "name": "MongoDB",
+        "badge": "https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
+      },
+      {
+        "name": "Supabase",
+        "badge": "https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Expo",
+        "badge": "https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white"
+      },
+      {
+        "name": "Docker",
+        "badge": "https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
+      },
+      {
+        "name": "Git",
+        "badge": "https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "name": "QuickShip CLI",
+      "type": "CLI Tool",
+      "description": "A powerful CLI tool that creates production-ready web and mobile applications in under 60 seconds.",
+      "github_url": "https://github.com/SeifElkadyy/QuickShip-CLI",
+      "npm_url": "https://www.npmjs.com/package/quickship-cli",
+      "technologies": ["Node.js", "TypeScript", "CLI"],
+      "stats": {
+        "npm_downloads": "2,500+"
+      },
+      "features": [
+        "2,500+ downloads on NPM",
+        "6 templates: Next.js, React+Vite, T3 Stack, MERN, Expo React Native, Express/NestJS"
+      ]
+    },
+    {
+      "name": "Venora Campus App",
+      "type": "Mobile Application",
+      "description": "A comprehensive campus marketplace and food ordering system with real-time tracking.",
+      "app_store_url": "https://apps.apple.com/eg/app/venora/id6744124790",
+      "technologies": ["React Native", "TypeScript", "Supabase", "Expo"],
+      "stats": {
+        "downloads": "1,000+ combined (App Store and Play Store)"
+      },
+      "features": [
+        "1,000+ combined downloads on App Store and Play Store",
+        "Secure payment integration",
+        "Real-time order tracking"
+      ]
+    },
+    {
+      "name": "Portal & CMS Companion App",
+      "type": "Mobile Application",
+      "description": "A mobile app for GIU students to manage grades, attendance, transcripts, and exam schedules.",
+      "demo_url": "https://portalapp-giu.netlify.app/",
+      "technologies": ["React Native", "Flask", "API Integration", "Expo"],
+      "features": [
+        "Grade management",
+        "Attendance tracking",
+        "Transcript access",
+        "Exam schedule management"
+      ]
+    },
+    {
+      "name": "AI Prompt Enhancer",
+      "type": "Chrome Extension",
+      "description": "Chrome extension with NLP-powered optimization that automatically improves prompts for AI assistants.",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/kofojdlckbdkldgcbbcnbfaojobpijbh",
+      "technologies": ["JavaScript", "HTML", "CSS", "Chrome Extensions API", "NLP"],
+      "features": [
+        "NLP-powered prompt optimization",
+        "Automatic prompt improvement for AI assistants"
+      ]
+    },
+    {
+      "name": "GIU File Renamer",
+      "type": "Chrome Extension",
+      "description": "Automatically organizes and renames downloads from the German International University CMS.",
+      "chrome_store_url": "https://chromewebstore.google.com/detail/mbnlphalmnjjfcdcdchiccjlhhohhdgf",
+      "technologies": ["JavaScript", "HTML", "CSS", "Chrome Extensions API"],
+      "features": [
+        "Automatic file organization",
+        "Smart renaming for university downloads"
+      ]
+    },
+    {
+      "name": "Educational Platform",
+      "type": "Web Application",
+      "description": "Full-featured educational platform with interactive learning modules and course management.",
+      "github_url": "https://github.com/SeifElkadyy/EducationalPlatform-ASP-NET-CORE.git",
+      "technologies": ["ASP.NET Core", "MSSQL", "HTML", "CSS", "JavaScript"],
+      "features": [
+        "Interactive learning modules",
+        "Course management system"
+      ]
+    },
+    {
+      "name": "Attack on Titan Utopia Game",
+      "type": "Desktop Game",
+      "description": "An immersive game inspired by the Attack on Titan universe with engaging gameplay mechanics.",
+      "github_url": "https://github.com/SeifElkadyy/AttackOnTitan-Utopia-Game-JavaFX-.git",
+      "technologies": ["Java", "JavaFX"],
+      "features": [
+        "Attack on Titan inspired gameplay",
+        "Engaging mechanics"
+      ]
+    },
+    {
+      "name": "Memory Card Game",
+      "type": "Desktop Game",
+      "description": "A simple yet engaging memory card game with smooth animations and difficulty levels.",
+      "github_url": "https://github.com/SeifElkadyy/MemoryCardMatch-Game-C-.git",
+      "technologies": ["Qt", "C++"],
+      "features": [
+        "Smooth animations",
+        "Multiple difficulty levels"
+      ]
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      {
+        "name": "Google Play Academy - Store Listing Certificate",
+        "issuer": "Google",
+        "date": "Oct 2025"
+      },
+      {
+        "name": "Learning Docker",
+        "issuer": "LinkedIn Learning",
+        "date": "Oct 2025"
+      },
+      {
+        "name": "Complete 2024 Web Development Bootcamp",
+        "issuer": "Udemy",
+        "date": "2025"
+      },
+      {
+        "name": "Postman API Fundamentals Student Expert",
+        "issuer": "Postman",
+        "date": "2024"
+      },
+      {
+        "name": "AWS Educate Introduction to Cloud 101",
+        "issuer": "AWS",
+        "date": "2024"
+      },
+      {
+        "name": "HackerRank Problem Solving (Basic) Certificate",
+        "issuer": "HackerRank",
+        "date": "2025"
+      }
+    ],
+    "publications": [
+      {
+        "type": "Mobile Apps",
+        "count": 2,
+        "platforms": ["App Store", "Google Play"],
+        "total_downloads": "1,000+"
+      },
+      {
+        "type": "Chrome Extensions",
+        "count": 2,
+        "platform": "Chrome Web Store"
+      },
+      {
+        "type": "NPM Package",
+        "count": 1,
+        "platform": "NPM",
+        "total_downloads": "2,500+"
+      }
+    ]
+  },
+  "github_stats": {
+    "stats_badge": "https://github-readme-stats-sigma-five.vercel.app/api?username=SeifElkadyy&show_icons=true&theme=radical&count_private=true&include_all_commits=true",
+    "languages_badge": "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SeifElkadyy&layout=compact&theme=radical&count_private=true&hide_border=true",
+    "streak_badge": "https://streak-stats.demolab.com/?user=SeifElkadyy&theme=radical"
+  },
+  "repository": {
+    "name": "SeifElkadyy",
+    "type": "GitHub Profile Repository",
+    "remote_url": "http://local_proxy@127.0.0.1:54164/git/SeifElkadyy/SeifElkadyy",
+    "current_branch": "claude/fetch-all-data-011CUSjXP4LAJMwHroCS2QCj",
+    "commits": [
+      {
+        "hash": "087a9c8",
+        "message": "Update README with new badges and project details"
+      },
+      {
+        "hash": "ad8daa7",
+        "message": "Update README.md"
+      },
+      {
+        "hash": "304f03a",
+        "message": "Update README.md"
+      },
+      {
+        "hash": "dcec0a7",
+        "message": "Create README.md"
+      }
+    ],
+    "files": [
+      "README.md"
+    ]
+  },
+  "metadata": {
+    "generated_at": "2025-10-24",
+    "version": "1.0",
+    "data_source": "GitHub Profile Repository - SeifElkadyy/SeifElkadyy"
+  }
+}
