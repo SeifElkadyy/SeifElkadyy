@@ -160,14 +160,9 @@ A collaborative software engineering project following SDLC methodologies from r
 ## 📚 Academic Background
 
 **Bachelor of Software Engineering** | German International University (GIU)  
-*Expected Graduation: 2026*
+*Expected Graduation: 2027*
 
-**Relevant Coursework**:
-- **ICS510** - Software Construction & Testing: TDD, unit/integration testing, code quality metrics
-- **ICS502** - Database Programming: PostgreSQL optimization, query planning, indexing strategies
-- **ICS405** - Mobile Device Security: Cryptography, secure authentication, vulnerability assessment
-- **ICS410** - Software Design & Architecture: Design patterns, UML modeling, architectural styles
-- **ICS400** - Requirements Engineering: User stories, use cases, requirements validation
+
 
 **Current Focus**: Building production software with comprehensive test suites, optimizing database performance for high-traffic applications, and implementing secure mobile architectures
 
