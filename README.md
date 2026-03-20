@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Seif El Kady
 
-## 🎓 Software Engineer | Full-Stack Developer | Systems Builder
+## 🎓 Software Engineer | Full-Stack Developer | Founder of PaceFyndr
 
-Software Engineering student at German International University with **3+ years of professional development experience**. I architect and build production-grade applications that scale—from CLI tools with **2,500+ NPM downloads** to mobile apps serving **1,000+ active users**. My expertise spans full-stack web development, mobile engineering, database optimization, and automated systems.
+Software Engineering student at German International University with **3+ years of professional development experience**. I architect and build production-grade applications that scale from CLI tools with **2,500+ NPM downloads** to mobile apps serving **1,000+ active users**. My expertise spans full-stack web development, mobile engineering, database optimization, and automated systems.
 
-**Currently**: Building enterprise software with test-driven development, optimizing PostgreSQL databases, and exploring secure mobile architectures.
+**Currently**: Building enterprise software with test-driven development, optimizing PostgreSQL databases, and growing the PaceFyndr running community platform.
 
 ## 💻 Technical Stack
 
@@ -63,6 +63,19 @@ Software Engineering student at German International University with **3+ years 
 - Requirements engineering and UML modeling
 
 ## 🌟 Featured Projects
+
+### [PaceFyndr](https://pacefyndr.com)
+**Founder & Lead Developer of a dedicated running community platform**
+
+A specialized mobile application designed to connect runners and build an active fitness community. Directed the complete product lifecycle from initial technical architecture to branding, design, and monetization strategy.
+
+**Impact**: Successfully conceptualized, branded, and developed a niche fitness networking platform.
+
+**Key Features**:
+- Architected a scalable cross-platform mobile experience tailored for runners
+- Spearheaded complete product branding, logo design, and marketing asset creation
+- Engineered robust community features and implemented sustainable monetization strategies
+- Managed the end-to-end development lifecycle as a solo technical founder
 
 ### [QuickShip CLI](https://github.com/SeifElkadyy/QuickShip-CLI) | [NPM Package](https://www.npmjs.com/package/quickship-cli)
 **Developer productivity tool that bootstraps production-ready applications in seconds**
@@ -162,8 +175,6 @@ A collaborative software engineering project following SDLC methodologies from r
 **Bachelor of Software Engineering** | German International University (GIU)  
 *Expected Graduation: 2027*
 
-
-
 **Current Focus**: Building production software with comprehensive test suites, optimizing database performance for high-traffic applications, and implementing secure mobile architectures
 
 ## 📊 GitHub Stats
@@ -190,6 +201,10 @@ A collaborative software engineering project following SDLC methodologies from r
 - 🎓 **Google Play Academy** - Store Listing Certificate (2025)
 
 ## 💼 Professional Experience
+
+**Founder & Lead Developer** | *PaceFyndr* | *2026 - Present*
+- Founded and engineered a comprehensive running community application.
+- Directed all aspects of the product lifecycle, including UI/UX design, full-stack architecture, rebranding, and establishing a monetization strategy.
 
 **Freelance Full-Stack Developer** | *2022 - Present*
 
