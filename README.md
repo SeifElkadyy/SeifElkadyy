@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Seif El Kady
 
-## 🎓 Software Engineer | Full-Stack Developer | Founder of PaceFyndr
+## 🎓 Software Engineer | Full-Stack Developer | Founder of PaceFyndr & C01 Developments
 
-Software Engineering student at German International University with **3+ years of professional development experience**. I architect and build production-grade applications that scale from CLI tools with **2,500+ NPM downloads** to mobile apps serving **1,000+ active users**. My expertise spans full-stack web development, mobile engineering, database optimization, and automated systems.
+Software Engineering student at German International University with **4+ years of professional development experience**. I architect and build production-grade applications that scale from CLI tools with **5,000+ NPM downloads** to mobile apps serving **1,000+ active users**. My expertise spans full-stack web development, mobile engineering, database optimization, and automated systems.
 
-**Currently**: Building enterprise software with test-driven development, optimizing PostgreSQL databases, and growing the PaceFyndr running community platform.
+**Currently**: Maintaining QuickShip CLI, running C01 Developments, and growing the PaceFyndr running community platform.
 
 ## 💻 Technical Stack
 
@@ -25,6 +25,7 @@ Software Engineering student at German International University with **3+ years 
 
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -35,6 +36,7 @@ Software Engineering student at German International University with **3+ years 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ## 🎯 Engineering Expertise
 
@@ -64,35 +66,38 @@ Software Engineering student at German International University with **3+ years 
 
 ## 🌟 Featured Projects
 
+### [QuickShip CLI](https://github.com/SeifElkadyy/QuickShip-CLI) | [NPM Package](https://www.npmjs.com/package/quickship-cli)
+**Open-source developer tool that bootstraps production-ready applications in 60 seconds**
+
+A command-line interface that eliminates boilerplate setup by generating fully-configured projects with industry best practices. Built to solve the "blank canvas problem" developers face when starting new projects. Actively maintained — issues and PRs welcome.
+
+**Impact**: 5,000+ npm downloads | 7 framework templates | 60-second setup time
+
+**Key Features**:
+- Template engine supporting Next.js, React+Vite, T3 Stack, MERN, React Native (Expo), Express, and NestJS
+- `quickship add` for auth, database, and shadcn/ui on existing projects
+- `quickship deploy` for one-command deploys (e.g. Vercel) and `quickship doctor` for environment checks
+- Support for npm, pnpm, yarn, and bun; flexible database options (Prisma/Mongoose or raw drivers)
+- Pre-configured ESLint, Prettier, TypeScript, and Git initialization
+
+**Technical Implementation**: Node.js, TypeScript, Commander.js for CLI framework, fs-extra for file operations
+
+**Engineering Challenges Solved**: Keeping templates current with upstream framework releases, cross-platform compatibility, interactive prompts with validation
+
+```bash
+npx quickship-cli@latest build my-app
+```
+
 ### [PaceFyndr](https://pacefyndr.com)
 **Founder & Lead Developer of a dedicated running community platform**
 
 A specialized mobile application designed to connect runners and build an active fitness community. Directed the complete product lifecycle from initial technical architecture to branding, design, and monetization strategy.
-
-**Impact**: Successfully conceptualized, branded, and developed a niche fitness networking platform.
 
 **Key Features**:
 - Architected a scalable cross-platform mobile experience tailored for runners
 - Spearheaded complete product branding, logo design, and marketing asset creation
 - Engineered robust community features and implemented sustainable monetization strategies
 - Managed the end-to-end development lifecycle as a solo technical founder
-
-### [QuickShip CLI](https://github.com/SeifElkadyy/QuickShip-CLI) | [NPM Package](https://www.npmjs.com/package/quickship-cli)
-**Developer productivity tool that bootstraps production-ready applications in seconds**
-
-A command-line interface that eliminates boilerplate setup by generating fully-configured projects with industry best practices. Built to solve the "blank canvas problem" developers face when starting new projects.
-
-**Impact**: 2,500+ downloads | 6 framework templates | 60-second setup time
-
-**Key Features**:
-- Intelligent template engine supporting Next.js, React+Vite, T3 Stack, MERN, React Native (Expo), and Express/NestJS
-- Automated dependency management and environment configuration
-- Pre-configured ESLint, Prettier, and TypeScript settings
-- Git initialization with sensible .gitignore patterns
-
-**Technical Implementation**: Node.js, TypeScript, Commander.js for CLI framework, fs-extra for file operations
-
-**Engineering Challenges Solved**: Template versioning, cross-platform compatibility, interactive prompts with validation
 
 ### [Venora Campus App](https://apps.apple.com/eg/app/venora/id6744124790)
 **Full-stack marketplace platform with real-time order management**
@@ -187,6 +192,10 @@ A collaborative software engineering project following SDLC methodologies from r
 
 ## 🏆 Certifications & Achievements
 
+**Hackathons**:
+- 🥇 **1st Place** - Paymob x Cursor Cairo Build-a-thon (2026): WhatsApp-native padel court booking system built in 4 hours
+- 🥈 **2nd Place** - Paymob x Replit Hackathon at AUC (2026)
+
 **Technical Certifications**:
 - **Docker Containerization** - LinkedIn Learning (2025)
 - **Complete Web Development Bootcamp** - Udemy (2025)
@@ -195,12 +204,15 @@ A collaborative software engineering project following SDLC methodologies from r
 - **HackerRank Problem Solving (Basic)** (2025)
 
 **Published Work**:
-- 📦 **NPM Package**: QuickShip CLI - 2,500+ downloads
+- 📦 **NPM Package**: QuickShip CLI - 5,000+ downloads
 - 📱 **Mobile Apps**: 2 production apps with 1,000+ combined installs (iOS & Android)
 - 🧩 **Browser Extensions**: 2 Chrome extensions serving 1,000+ users
 - 🎓 **Google Play Academy** - Store Listing Certificate (2025)
 
 ## 💼 Professional Experience
+
+**Founder** | *[C01 Developments](https://c01.dev)* | *Cairo*
+- Full-stack software studio delivering client work across web, mobile, and AI/automation, alongside in-house SaaS products.
 
 **Founder & Lead Developer** | *PaceFyndr* | *2026 - Present*
 - Founded and engineered a comprehensive running community application.
@@ -211,11 +223,10 @@ A collaborative software engineering project following SDLC methodologies from r
 Delivering end-to-end software solutions for clients while building personal developer tools and automation systems.
 
 **Key Accomplishments**:
-- Built and deployed 10+ production web applications using React, Next.js, and TypeScript
+- Shipped 35+ production apps across web and mobile using React, Next.js, React Native, and TypeScript
 - Published 2 mobile apps to App Store and Google Play with 1,000+ active users
-- Created QuickShip CLI tool adopted by 2,500+ developers for project scaffolding
+- Created and maintain QuickShip CLI, used by developers for 5,000+ project-scaffolding downloads
 - Developed automation workflows using n8n, Make, and Zapier for business process optimization
-- Founded **C01 Automation Agency** (c01.app) specializing in AI-powered workflow automation
 
 **Technical Responsibilities**:
 - Full-stack architecture design and implementation
@@ -229,13 +240,13 @@ Delivering end-to-end software solutions for clients while building personal dev
 
 ## 🚀 What Sets Me Apart
 
-**Ship Fast, Build Right**: I balance rapid development with engineering excellence—evidenced by QuickShip CLI's 2,500+ downloads and production apps serving real users daily.
+**Ship Fast, Build Right**: I balance rapid development with engineering excellence—evidenced by QuickShip CLI's 5,000+ downloads, two hackathon podiums, and production apps serving real users daily.
 
 **Full Product Lifecycle**: From requirements gathering to App Store deployment, I've shipped complete products independently, handling both technical and business challenges.
 
-**Academic + Real-World**: Combining formal software engineering education with 3+ years of professional experience building production systems.
+**Academic + Real-World**: Combining formal software engineering education with 4+ years of professional experience building production systems.
 
-**Open Source Mindset**: I build tools that help other developers, contributing to the broader development community through published packages and extensions.
+**Open Source Mindset**: I build and maintain tools that help other developers, contributing to the broader development community through published packages and extensions.
 
 ## 📫 Let's Connect
 
